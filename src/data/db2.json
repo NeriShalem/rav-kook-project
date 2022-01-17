@@ -1,0 +1,24 @@
+
+
+    {
+      "blogs" : [
+          {
+            "title": "פרק ראשון",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit delectus nemo doloribus minus reprehenderit quisquam modi aliquam expedita accusantium a voluptatum voluptate deserunt quaerat temporibus ipsam, earum aspernatur ratione vel.",
+            "author": "הרב אברהם יצחק הכהן קוק",
+            "id": 1
+          },
+          {
+            "title": "פרק שני",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit delectus nemo doloribus minus reprehenderit quisquam modi aliquam expedita accusantium a voluptatum voluptate deserunt quaerat temporibus ipsam, earum aspernatur ratione vel..",
+            "author": "הרב אברהם יצחק הכהן קוק",
+            "id": 2
+          },
+          {
+            "title": "פרק שלישי",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit delectus nemo doloribus minus reprehenderit quisquam modi aliquam expedita accusantium a voluptatum voluptate deserunt quaerat temporibus ipsam, earum aspernatur ratione vel.",
+            "author": "הרב אברהם יצחק הכהן קוק",
+            "id": 3
+          }
+        ]
+      }
